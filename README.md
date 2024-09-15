@@ -60,6 +60,3 @@ These dependencies are listed in the `requirements.txt` file and will be install
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License. 
